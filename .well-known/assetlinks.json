@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.katedra.katedrapk",
+    "sha256_cert_fingerprints":
+    ["A5:A5:29:F9:53:B5:00:FA:3E:16:41:0D:48:E9:CB:20:6F:11:EA:EE:D2:30:CE:11:D1:63:AB:E3:95:B4:99:12"]
+  }
+}]
